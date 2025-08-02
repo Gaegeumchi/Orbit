@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyMarkServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+907a4cbd62465d254213f3a55902afa998328e86")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyMarkServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyMarkServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
