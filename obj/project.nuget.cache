@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6stU7pL3TA=",
+  "success": true,
+  "projectFilePath": "C:\\Project\\C_Charp\\Orbit\\Orbit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gaegeumchi\\.nuget\\packages\\fnbt\\1.0.0\\fnbt.1.0.0.nupkg.sha512",
+    "C:\\Users\\gaegeumchi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
