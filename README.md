@@ -11,5 +11,5 @@ Orbit is a Minecraft server based on C#. Develop with compatibility with existin
 #### Run in root directory
 
 ```
-dotnet run --project Orbit.csproj
+dotnet run
 ```
